@@ -1,0 +1,34 @@
+body {
+    background-image: url(../sea.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.left {
+    background-color: rgba(137, 211, 240, 0.74);
+    padding: 30px;
+}
+
+.right {
+    background-color: white;
+    padding: 30px;
+}
+
+button.btn.btn-primary {
+    margin-top: 25px;
+}
+
+.form-control {
+    background-color: transparent !important;
+    margin-top: 10px;
+}
+
+.form-group {
+    margin-top: 25px;
+}
+
+.d-flex {
+    display: flex !important;
+    margin-top: 30px;
+}
